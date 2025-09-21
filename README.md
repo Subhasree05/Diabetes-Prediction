@@ -4,6 +4,8 @@ This is a **Streamlit web application** that predicts whether a person is diabet
 It uses the **Pima Indians Diabetes Dataset**.
 
 ---
+## Website : https://diabetes-prediction-str.streamlit.app/
+---
 
 ## 🚀 Features
 - Logistic Regression model for diabetes prediction
